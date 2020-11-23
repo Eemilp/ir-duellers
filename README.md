@@ -33,3 +33,9 @@ Originally the program was written in Arduino language. While this worked perfec
 ###Flashing the chips
 
 The original plan was to program the chip over serial with the Arduino bootloader. This however did not appear to be reliable so programming the chips over SPI on a breadboard was used instead.  
+
+The chips were programmed with and Arduino Uno (Arduino as ISP). The hex file was generated with Atmel Studio and progamming was done with Avrdude ovet command line. 
+
+´´´
+avrdude -arguments and shit
+´´´
