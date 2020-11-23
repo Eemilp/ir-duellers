@@ -37,5 +37,7 @@ The original plan was to program the chip over serial with the Arduino bootloade
 The chips were programmed with and Arduino Uno (Arduino as ISP). The hex file was generated with Atmel Studio and progamming was done with Avrdude ovet command line. 
 
 ´´´
-avrdude -arguments and shit
+
+avrdude -arguments
+
 ´´´
