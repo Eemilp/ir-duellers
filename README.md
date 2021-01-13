@@ -1,6 +1,6 @@
 # IR-duellers
 
-Toy guns for a western-styel duelling game. The pair of guns have an ir-LED and sensor each and can thus determine who shot first. When a gun "dies" it is not able to shoot anymore and has to be reset from a button to be functional again. 
+Toy guns for a western-style duelling game. The pair of guns have an ir-LED and sensor each and can thus determine who shot first. When a gun "dies" it is not able to shoot anymore and has to be reset from a button to be functional again. 
 
 A few images of the finished product: https://imgur.com/a/vaQRZun
 
